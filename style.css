@@ -7,3 +7,10 @@
 .logo {
     color: indigo;
 }
+
+header {
+  display: flex;
+  justify-content: space-between; /* лого слева, кнопка справа */
+  align-items: center;            /* выравнивание по вертикали */
+  padding: 10px 20px;
+}
