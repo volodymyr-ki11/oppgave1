@@ -14,3 +14,16 @@ header {
   align-items: center;            /* выравнивание по вертикали */
   padding: 10px 20px;
 }
+
+.MenuButton {
+     background: none;
+     padding: 10px 15px;
+     border-radius: 10px;
+     cursor: pointer;
+}
+
+.MenuButton img {
+     width: 30px;
+     height: 30px;
+     display: block;
+}
